@@ -1,6 +1,20 @@
-FebuxostatCVRisk
-==============================
+The risk of cardiovascular events and death of febuxostat (FebuxostatCVRisk)
+=============
 
+<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Started">
+
+- Analytics use case(s): **Population-Level Estimation**
+- Study type: **Clinical Application**
+- Tags: **(Febuxostat, CardioVascularRisk)**
+- Study lead: **Seng Chan You, Seonji Kim**
+- Study lead forums tag: **[SCYou](https://forums.ohdsi.org/u/SCYou)**
+- Study start date: **2 November 2023**
+- Study end date: 
+- Protocol: **https://github.com/ohdsi-studies/FebuxostatCVRisk/tree/Master/documents/**
+- Publications: 
+- Results explorer: 
+
+This study aims to confirm the adverse cardiovascular events and death risks of febuxostat compared with allopurinol in patients with gout.
 
 Requirements
 ============
@@ -107,4 +121,4 @@ FebuxostatCVRisk was developed in ATLAS and R Studio.
 
 ### Development status
 
-Unknown
+Under development
