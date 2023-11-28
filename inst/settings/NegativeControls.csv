@@ -1,0 +1,175 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+445,446,4175583,3-Methylglutaconic aciduria type 2,outcome
+445,446,375824,Abnormal auditory perception,outcome
+445,446,435574,Abnormal form of root of tooth,outcome
+445,446,4262562,Abnormal heart beat,outcome
+445,446,439935,Abnormal posture,outcome
+445,446,436409,Abnormal pupil,outcome
+445,446,443702,Abnormal response to nerve stimulation,outcome
+445,446,4088768,Absent nipple,outcome
+445,446,44783954,Acid reflux,outcome
+445,446,4319325,Acquired deformity of trunk,outcome
+445,446,435720,Adverse anesthesia outcome,outcome
+445,446,4254371,Altered growth and development,outcome
+445,446,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
+445,446,4155909,Anesthesia of skin,outcome
+445,446,45757682,Anomaly of jaw size,outcome
+445,446,4060259,Antenatal amniocentesis - abnormal,outcome
+445,446,4061157,Antenatal ultrasound scan abnormal,outcome
+445,446,76744,Azoospermia,outcome
+445,446,4216219,Bizarre personal appearance,outcome
+445,446,433813,Bladder neck obstruction,outcome
+445,446,436230,Blood chemistry abnormal,outcome
+445,446,74698,Breech presentation,outcome
+445,446,256449,Bronchiectasis,outcome
+445,446,134765,Cachexia,outcome
+445,446,4228429,Carnitine deficiency,outcome
+445,446,42709838,Cellulitis of lower limb,outcome
+445,446,4213540,Cervical somatic dysfunction,outcome
+445,446,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
+445,446,438262,Chyluria,outcome
+445,446,4066505,Clicking hip,outcome
+445,446,196454,Colostomy and enterostomy malfunction,outcome
+445,446,4201390,Colostomy present,outcome
+445,446,46269889,Complication due to Crohn's disease,outcome
+445,446,4173078,Complication due to immunization,outcome
+445,446,434675,Complication of gastrostomy,outcome
+445,446,438624,Complication of renal dialysis,outcome
+445,446,80492,Contracture of knee joint,outcome
+445,446,4022071,Convalescence,outcome
+445,446,432729,Crying infant,outcome
+445,446,436233,Delayed milestone,outcome
+445,446,443737,Dental restoration lost,outcome
+445,446,438183,Denture occlusion incorrect,outcome
+445,446,438759,Descemet's membrane fold,outcome
+445,446,4101282,Dietary selenium deficiency,outcome
+445,446,4115402,Difficulty sleeping,outcome
+445,446,4019971,Discord in school,outcome
+445,446,4022078,Discord with counselor,outcome
+445,446,201091,Disproportion - major pelvic abnormality,outcome
+445,446,372329,Dissociated deviation,outcome
+445,446,4155818,Does climb,outcome
+445,446,4196636,Dysarthria,outcome
+445,446,433441,Ectopic production of endocrine substance,outcome
+445,446,433111,Effects of hunger,outcome
+445,446,439791,Emotional upset,outcome
+445,446,4029271,Essential fatty acid deficiency,outcome
+445,446,40480271,Extra unidentified structurally abnormal chromosome,outcome
+445,446,193598,Extravasation of urine,outcome
+445,446,439128,Extreme prematurity of infant,outcome
+445,446,4059015,Falls,outcome
+445,446,4092896,Feces contents abnormal,outcome
+445,446,4182437,Female genital cutting,outcome
+445,446,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
+445,446,4229403,Flat anterior chamber of eye,outcome
+445,446,4069540,Flexion deformity of knee,outcome
+445,446,374801,Foreign body in ear,outcome
+445,446,4096540,Foreskin deficient,outcome
+445,446,441487,Frostbite,outcome
+445,446,73564,Full thickness rotator cuff tear,outcome
+445,446,40481568,Fussy infant,outcome
+445,446,439788,Galactosemia,outcome
+445,446,435775,Genetic anomaly of leukocyte,outcome
+445,446,440329,Herpes zoster without complication,outcome
+445,446,4012570,High risk sexual behavior,outcome
+445,446,441829,Hyperosmolality and or hypernatremia,outcome
+445,446,4287416,Hyperphenylalaninemia,outcome
+445,446,192298,Hypersplenism,outcome
+445,446,440129,Hypertrophy of nasal turbinates,outcome
+445,446,4029280,Hypervitaminosis B6,outcome
+445,446,435522,Hypervitaminosis D,outcome
+445,446,434004,Hypervolemia,outcome
+445,446,4024266,Hypocupremia,outcome
+445,446,437390,Hypoxemia,outcome
+445,446,443447,Iatrogenic hypotension,outcome
+445,446,432596,Immune defect,outcome
+445,446,4344500,Impingement syndrome of shoulder region,outcome
+445,446,4090353,Incompetent urethral closure mechanism,outcome
+445,446,441417,Incoordination,outcome
+445,446,434485,Increase in body fat,outcome
+445,446,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+445,446,434872,Infection by Trichomonas,outcome
+445,446,440053,Infestation by insect,outcome
+445,446,442120,Injection site extravasation,outcome
+445,446,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+445,446,440710,Intraretinal microvascular abnormality,outcome
+445,446,72404,Joint stiffness,outcome
+445,446,4093346,Large prostate,outcome
+445,446,133088,Late amputation stump complication,outcome
+445,446,436041,Leech infestation,outcome
+445,446,4228331,Leukokeratosis nicotina palati,outcome
+445,446,377873,Lid lag,outcome
+445,446,4027782,Lipid storage disease,outcome
+445,446,435516,Lipoprotein deficiency disorder,outcome
+445,446,4083487,Macular drusen,outcome
+445,446,4051630,Malingering,outcome
+445,446,436426,Malleus mobility reduced,outcome
+445,446,44783760,Mammographic calcification of breast,outcome
+445,446,258540,Marfan's syndrome,outcome
+445,446,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
+445,446,439082,Menopausal syndrome,outcome
+445,446,436940,Metabolic syndrome X,outcome
+445,446,435247,Metallosis,outcome
+445,446,45757258,Minimal keratinized residual ridge mucosa,outcome
+445,446,40480000,Multiple complications due to diabetes mellitus,outcome
+445,446,134315,Myelophthisis,outcome
+445,446,4195085,Nasal congestion,outcome
+445,446,4209423,Nicotine dependence,outcome
+445,446,434016,"Nondependent opioid abuse, continuous",outcome
+445,446,4035269,Non-ketotic hyperglycinemia,outcome
+445,446,40480893,Nonspecific tuberculin test reaction,outcome
+445,446,198802,Occlusion of ureter,outcome
+445,446,438130,Opioid abuse,outcome
+445,446,439035,Otosclerosis,outcome
+445,446,4022076,Patient dependence on care provider,outcome
+445,446,375292,Perforation of tympanic membrane,outcome
+445,446,78162,Peripheral vertigo,outcome
+445,446,437092,Physiological development failure,outcome
+445,446,253796,Pneumothorax,outcome
+445,446,4295261,Postmenopausal state,outcome
+445,446,4202045,Postviral fatigue syndrome,outcome
+445,446,433542,Precipitate labor,outcome
+445,446,4094448,Pregnancy test negative,outcome
+445,446,434319,Premature ejaculation,outcome
+445,446,439081,Premenstrual tension syndrome,outcome
+445,446,46286594,Problem related to lifestyle,outcome
+445,446,439790,Psychalgia,outcome
+445,446,440068,Psychosexual dysfunction,outcome
+445,446,435028,Puerperal pyrexia of unknown origin,outcome
+445,446,4245252,Raised prostate specific antigen,outcome
+445,446,436246,Reduced libido,outcome
+445,446,45772079,Retinopathy of prematurity stage 0,outcome
+445,446,436828,Saliva abnormal,outcome
+445,446,435088,Senility,outcome
+445,446,4052226,Sequelae of injuries of lower limb,outcome
+445,446,4056577,Sequelae of open wound of head,outcome
+445,446,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
+445,446,4250163,Sexual arousal disorder,outcome
+445,446,4096999,Short rib,outcome
+445,446,4305303,Sleep deprivation,outcome
+445,446,195926,Slowing of urinary stream,outcome
+445,446,4125590,Slurred speech,outcome
+445,446,4019836,Social exclusion,outcome
+445,446,444127,Specimen satisfactory for evaluation but limited,outcome
+445,446,443172,"Splinter of face, without major open wound",outcome
+445,446,443082,Starvation,outcome
+445,446,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
+445,446,135852,Teething syndrome,outcome
+445,446,440457,Threatened miscarriage,outcome
+445,446,374907,Tics of organic origin,outcome
+445,446,433244,Tooth loss,outcome
+445,446,4029731,Trimethylaminuria,outcome
+445,446,40482801,Type II diabetes mellitus uncontrolled,outcome
+445,446,4199550,Unable to mobilize,outcome
+445,446,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
+445,446,4092743,Unsteady when standing,outcome
+445,446,195591,Urethral overactivity,outcome
+445,446,4216708,Urgent desire for stool,outcome
+445,446,80070,Uric acid urolithiasis,outcome
+445,446,4088910,Uterine cervix absent,outcome
+445,446,4088920,Uterus absent,outcome
+445,446,4104132,Vomit contains feces,outcome
+445,446,439405,Walking disability,outcome
+445,446,314754,Wheezing,outcome
+445,446,435723,Wound seroma,outcome
+445,446,440193,Wristdrop,outcome
